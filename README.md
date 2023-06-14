@@ -18,3 +18,8 @@ setx SONAR_JAVA_PATH "C:\Program Files\Java\jdk-17\bin\java.exe"
 ```shell
 set wrapper.java.command=C:\Program Files\Java\jdk-17\bin wrapper.java.command=C:\Program Files\Java\jdk-17\bin\java
 ```
+
+##### Install Sonar Service
+```shell
+<SonarQube-Home>\bin\windows-x86-64\SonarService.bat install
+```
