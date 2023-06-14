@@ -28,3 +28,8 @@ set wrapper.java.command=C:\Program Files\Java\jdk-17\bin wrapper.java.command=C
 ```shell
 <SonarQube-Home>\bin\windows-x86-64\SonarService.bat start
 ```
+
+##### Check Sonar Service Status
+```shell
+<SonarQube-Home>\bin\windows-x86-64\SonarService.bat status
+```
