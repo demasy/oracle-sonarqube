@@ -14,3 +14,7 @@ This is my experiment to gain a better understanding of SonarQube as a code anal
 setx SONAR_JAVA_PATH "C:\Program Files\Java\jdk-17\bin\java.exe"
 ```
 
+##### Set Java Command 
+```shell
+set wrapper.java.command=C:\Program Files\Java\jdk-17\bin wrapper.java.command=C:\Program Files\Java\jdk-17\bin\java
+```
