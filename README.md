@@ -39,6 +39,12 @@ set wrapper.java.command=C:\Program Files\Java\jdk-17\bin wrapper.java.command=C
 <SONARQUBE_HOME>/bin/windows-x86-64/StartSonar.bat
 ```
 
+##### Server URL
+```shell
+http://localhost:9000
+```
+
+
 <br>
   
 ###### Suggestions & Issues
