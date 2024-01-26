@@ -48,5 +48,5 @@ http://localhost:9000
 <br>
   
 ###### Suggestions & Issues
-> If you find any issue or have a great idea in mind, please create an issue on <a href="https://github.com/demasy/Understanding-SonarQube/issues">GitHub</a>.
+> If you find any issue or have a great idea in mind, please create an issue on <a href="https://github.com/demasy/oracle-sonarqube/issues">GitHub</a>.
 
